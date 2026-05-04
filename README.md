@@ -8,13 +8,6 @@ Location: Iasi · Toronto · Dallas · Austin · Dubai.
 
 Writing at [bogdanbaciu.com](http://bogdanbaciu.com) — AI enabled business transformation, finance, and personal development topics.
 
-## Writing
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-More at [bogdanbaciu.com](http://bogdanbaciu.com).
-
 ## Selected
 
 - [The Importance of Going Fast](https://bogdanbaciu.com/thoughts/importance-of-going-fast) — speed gets talked about as a cultural value when it's actually a mathematical one.
