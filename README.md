@@ -20,3 +20,4 @@ Writing at [bogdanbaciu.com](http://bogdanbaciu.com) — AI enabled business tra
 
 - [bogdanbaciu.com](https://bogdanbaciu.com)
 - [@curiouslinks on X](https://x.com/curiouslinks)
+
