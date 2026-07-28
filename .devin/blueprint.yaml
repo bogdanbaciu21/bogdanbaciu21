@@ -1,0 +1,7 @@
+clone:
+  depth: 1
+  lfs: false
+  submodules: false
+maintenance: |
+  # No automated dependency step detected; add install/build commands as needed.
+knowledge: []
